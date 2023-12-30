@@ -1,0 +1,21 @@
+header{
+    width: 100%;
+    height: 975px;
+    background: #E2EDE9;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    
+}
+/* logo */
+#logo-menu{
+    position: absolute;
+    width: 59px;
+    height: 74px;
+    left: 51px;
+    top: 25px;
+}
+
+button {
+    
+}
